@@ -1,0 +1,3 @@
+DisableBatching przekszta³ca ca³¹ geometriê w przestrzeñ œwiatow¹, 
+wiêc "przestrzeñ obiektu" zostaje utracona, 
+dla tego te¿ nasze wierzcho³ki nieraguja na zmiany materi/textury.
